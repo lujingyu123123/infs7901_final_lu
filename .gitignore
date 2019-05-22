@@ -1,0 +1,7 @@
+*.db
+db/*
+__pycache__
+final_sql_tmp.sql
+*_old.html
+.idea/
+file.json
